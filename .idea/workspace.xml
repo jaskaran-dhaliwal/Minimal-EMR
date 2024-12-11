@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53bbd4f9-036d-4695-bdee-48188bd9fbb9" name="Changes" comment="Adjusted local version.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="53bbd4f9-036d-4695-bdee-48188bd9fbb9" name="Changes" comment="chore: updated README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733946905181</updated>
       <workItem from="1733946905609" duration="852000" />
-      <workItem from="1733947887186" duration="377000" />
+      <workItem from="1733947887186" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="Uploaded local version of project.">
       <option name="closed" value="true" />
@@ -129,7 +127,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733948101626</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chore: updated README.md">
+      <option name="closed" value="true" />
+      <created>1733948278762</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733948278762</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chore: updated README.md">
+      <option name="closed" value="true" />
+      <created>1733948308687</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733948308687</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chore: updated README.md">
+      <option name="closed" value="true" />
+      <created>1733948409842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733948409842</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +174,7 @@
     <MESSAGE value="Adjusted local copy of project." />
     <MESSAGE value="first commit" />
     <MESSAGE value="Adjusted local version." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted local version." />
+    <MESSAGE value="chore: updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: updated README.md" />
   </component>
 </project>
