@@ -59,20 +59,6 @@ To get started with DjangoEHR, follow these installation steps:
 
 8. Access the admin interface at [http://localhost:8000/admin/](http://localhost:8000/admin/) and log in with your superuser credentials to start using DjangoEHR.
 
-## Usage
-
-For detailed usage instructions and documentation, please refer to the Wiki section of this repository.
-
-## Contributing
-
-We welcome contributions to DjangoEHR. To contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/my-new-feature`.
-3. Make your changes and commit them with clear and concise messages.
-4. Push your changes to your fork: `git push origin feature/my-new-feature`.
-5. Submit a pull request to the main repository.
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
