@@ -59,10 +59,3 @@ To get started with DjangoEHR, follow these installation steps:
 
 8. Access the admin interface at [http://localhost:8000/admin/](http://localhost:8000/admin/) and log in with your superuser credentials to start using DjangoEHR.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-Thank you for choosing DjangoEHR for your Electronic Health Records system. If you have any questions or need assistance, please don't hesitate to reach out to us.
-
-Happy coding!
